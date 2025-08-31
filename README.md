@@ -28,4 +28,6 @@ Job Classification: Tree map visualizing customer job categories.
 
 # Screenshots:
 ![Dashboard Screenshot](Screenshot1.png)
+![Dashboard Screenshot](Screenshot2.png)
+
 

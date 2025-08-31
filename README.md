@@ -27,4 +27,5 @@ Gender Split: Pie chart showing customer gender proportion.
 Job Classification: Tree map visualizing customer job categories.
 
 # Screenshots:
-![Dashboard Screenshot](screenshot1.png)
+![Dashboard Screenshot](screenshot 1.png)
+

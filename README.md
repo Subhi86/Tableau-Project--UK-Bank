@@ -1,9 +1,8 @@
 # Tableau-Project-UK-Bank
-Tableau Project- UK Bank
 
 This project is an interactive business dashboard built with Tableau, designed to provide insights into customer demographics and financial distribution. The dashboard allows users to dynamically explore data by filtering across different dimensions such as country, gender, and job classification.
 
-Features:
+# Features:
 
 Customer Segmentation: Explore customer distribution by region across the UK (England, Scotland, Wales, Northern Ireland).
 
@@ -15,7 +14,7 @@ Gender Analysis: View the proportion of male and female customers.
 
 Job Classification: Breakdown of customers by job category (White Collar, Blue Collar, Other).
 
-Key Visualizations:
+# Key Visualizations:
 
 UK Map: Geographical view of customer distribution across regions.
 
@@ -27,6 +26,5 @@ Gender Split: Pie chart showing customer gender proportion.
 
 Job Classification: Tree map visualizing customer job categories.
 
-Interactivity:
+# Screenshots:
 
-The dashboard is fully dynamic. Users can filter by region, gender, or job classification to see how these selections impact other variables (e.g., balance or age distribution). This enables detailed customer profiling and deeper data exploration.
